@@ -1,6 +1,7 @@
-## Skodjob
-
 ![text-skodjob-final](https://github.com/skodjob/.github/assets/9933303/902e0461-3080-4fbe-9187-7ed0caf00e70)
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/company/skodjob/)
+[![blog](https://img.shields.io/badge/blog-white)](https://www.skodjob.io/)
 
 Ideas, automation examples, tooling for make tester life easier...that's what you will find here! 
 

@@ -1,5 +1,13 @@
 ## Skodjob
 
+![text-skodjob-final](https://github.com/skodjob/.github/assets/9933303/902e0461-3080-4fbe-9187-7ed0caf00e70)
+
+Ideas, automation examples, tooling for make tester life easier...that's what you will find here! 
+
+In case you would like to get in touch with us you can send us a message on our [Linkedin]([url](https://www.linkedin.com/company/skodjob/)) profile.
+
+Also do not forget to visit our [blog]([url](https://skodjob.io/))!
+
 <!--
 
 **Here are some ideas to get you started:**

@@ -3,6 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue)](https://www.linkedin.com/company/skodjob/)
 [![blog](https://img.shields.io/badge/blog-white)](https://www.skodjob.io/)
 
+/skɒdjob/
+
 Ideas, automation examples, tooling for make tester life easier...that's what you will find here! 
 
 In case you would like to get in touch with us you can send us a message on our [Linkedin]([url](https://www.linkedin.com/company/skodjob/)) profile.

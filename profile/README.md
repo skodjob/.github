@@ -5,6 +5,8 @@
 
 /skɒdjob/
 
+![](https://skillicons.dev/icons?i=kubernetes,openshift,ansible,prometheus,grafana,java,maven,bash,kafka&theme=dark&perline=10)
+
 Ideas, automation examples, tooling for make tester life easier...that's what you will find here! 
 
 In case you would like to get in touch with us you can send us a message on our [Linkedin]([url](https://www.linkedin.com/company/skodjob/)) profile.
